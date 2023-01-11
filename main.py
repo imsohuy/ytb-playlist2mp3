@@ -49,7 +49,7 @@ def get_playlist(playlists,des):
             except:
                 print(title + " error! Skip!")
 
-    print("Total download file: " + count)
+    print("Total download file: " + str(count))
 
 # main code
 # input playlist here for download
