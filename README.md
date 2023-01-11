@@ -5,6 +5,7 @@
 </h1>
 
 <h4 align="center">Terminal python tool for convert and download youtube playlist to mp3.</h4>
+<h5 align="center">Too lazy to download each video a time so I made this</h5>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
