@@ -60,12 +60,12 @@ def menu():
     # input folder path for store file
     save_path = "D:/download/audio/music"
     while True:
-        print("Q - to quit input")
-        print("P - to input playlist")
-        print("L - to input save location")
-        print("I - to print infomation")
+        print("D - proceed download")
+        print("P - input playlist")
+        print("L - input save location")
+        print("I - download infomation")
         option = input("Enter option: ")
-        if (option.lower() == 'q'): break
+        if (option.lower() == 'd'): break
         if (option.lower() == 'i'):
             print("Current playlist to download", playlists)
             print("Save location", save_path)
