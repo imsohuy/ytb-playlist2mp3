@@ -25,7 +25,7 @@
   <a href="#how-to-use">How To Use</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/38663450/211750147-5b397454-8ef3-47ae-b3a0-08e40f0bbb50.png)
+![image](https://user-images.githubusercontent.com/38663450/211968535-f40ca6ff-250c-4da0-9084-e790531ecae3.png)
 
 ## Key Features
 
